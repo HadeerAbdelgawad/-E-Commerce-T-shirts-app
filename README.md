@@ -22,7 +22,7 @@ The app includes authentication, product browsing, cart management, and account 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/flutter-ecommerce-ui.git
+   git clone https://github.com/HadeerAbdelgawad/-E-Commerce-T-shirts-app.git
 
 2. **Navigate to the project directory:**
     ```bash
