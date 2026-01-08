@@ -14,9 +14,9 @@ The app includes authentication, product browsing, cart management, and account 
 - **API Integration:** Fetch products using REST APIs.  
 - **State Management:** Efficient state handling using **Flutter Bloc**.  
 
-## Screenshots
+## Videos
 
-*Add screenshots here to showcase the app UI.*
+
 
 ## Getting Started
 
